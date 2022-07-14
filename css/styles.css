@@ -1,0 +1,123 @@
+    body {
+        position: relative;
+        background-color: #AEDBCE;
+        text-align: center;
+        padding-top: 150px;
+        
+    }
+    
+    h1 {
+        font-family: 'Kaushan Script', cursive;
+        top: 50px;
+        color: #6f766f;
+        
+    }
+    .mountain {
+    margin: 50px auto 50px auto;
+}
+    
+    p {
+        font-family: 'Press Start 2P', cursive;
+        font-size: small;
+        top: 50px;
+        color:  #53b7b7;
+        line-height: 2;           
+    }
+    h2 {
+        font-family: 'Press Start 2P', cursive;
+        color:  #53b7b7;
+        font-size: small;
+    }
+    .bottom-cloud {
+        position: absolute;
+        left:200px;
+        top:220px;
+        }
+        .top-cloud {
+            position: absolute;
+            TOP: 40px;
+            right: 200px;}
+
+    .middle-container {
+   
+    margin: 50px 100px 50px 100px;
+    text-align: center;
+}
+   
+   .skills-image {
+    width: 25%;
+    float: left;
+    text-align: center;
+    }
+    .cards-image
+    {
+    width: 25%;
+    float: right;
+    padding-top: 0%;
+    margin-top: 0%;
+
+}
+    .skills {
+        font-size: 16px;
+        margin: auto 50px auto 50px;
+    }
+    .my-skills {
+    text-align: center;
+    margin: auto 30px auto 30px;
+    }
+    .design {
+    margin-top: 50px;
+    
+    }
+     .middle-container {
+     margin-right: 250px;
+     margin-left: 250px;
+    text-align: center;
+    line-height: 2;
+    margin-bottom: 250px;
+
+     }
+    .contact-me {
+    margin:auto 100px auto 100px;
+    line-height: 4;
+    text-align: center;
+}
+   
+hr {
+    border: dotted rgb(125, 146, 176);
+    width: 3%;
+    border-bottom: none;
+    text-align: center;
+    margin-top: 30px;
+
+}   
+.btn{
+cursor: pointer;
+border-top: 5px;
+border-bottom: 20px;
+border-radius: 5px;
+background-color:aqua;
+border-color:black; 
+padding: 5px;
+
+
+
+}
+
+.btn:hover{
+background-color: whitesmoke;
+border-color:black;
+border-radius: 5px;
+
+}
+.contact {
+ text-align: center;
+ background-color: #66bfbf;
+ padding: 40px;
+}
+.footer-link {
+padding: 20px;
+}
+    
+     
+ 
